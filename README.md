@@ -1,4 +1,4 @@
-## Hi there 👋
+## бла бла бла тут типа должна быть инструкция 
 
 <!--
 **timur0809010/timur0809010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
